@@ -10,3 +10,5 @@
 |--------|---------|
 | grapes | $1.99 lb|
 | apples | $0.90 lb|
+| pears  | $1.20 lb|
+| lemons | $1.00 lb|
