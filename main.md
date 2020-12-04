@@ -12,3 +12,6 @@
 | apples | $0.90 lb|
 | pears  | $1.20 lb|
 | lemons | $1.00 lb|
+=======
+| plums  | $1.29 lb|
+| oranges| $0.69 lb|
