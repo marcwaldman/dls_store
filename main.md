@@ -1,3 +1,4 @@
-## DeLaSalle’s Grocery
+![DeLaSalle's](https://home.manhattan.edu/~marc.waldman/images/dls.png)
 
-### Only the Finest Fruits
+## DeLaSalle’s Grocery - Only the Finest Fruits
+
