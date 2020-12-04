@@ -10,3 +10,5 @@
 |--------|---------|
 | grapes | $1.99 lb|
 | apples | $0.90 lb|
+| plums  | $1.29 lb|
+| oranges| $0.69 lb|
