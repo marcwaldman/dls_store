@@ -14,3 +14,5 @@
 | lemons | $1.00 lb|
 | plums  | $1.29 lb|
 | oranges| $0.69 lb|
+| bananas| $4.20 lb|
+
